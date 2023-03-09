@@ -1,5 +1,5 @@
 # Python
-Bem vindo ao repositório de Python, vamos usar com responsabilidade.
+Bem vindo ao nosso repositório de Python, vamos usar com responsabilidade.
 
 Este repositório tem como objetivo principal armazenar e compartilhar projetos escritos em linguagem Python com outros desenvolvedores e/ou estudantes, contribuindo para o desenvolvimento profissional e educacional de todos os interessados.
 
