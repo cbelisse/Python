@@ -1,6 +1,6 @@
 '''
 Exercícios da lista 1
-1 a 6
+1 a 5
 1 - Identificar operadores
 2 - Nome de variáveis
 3 - Tipo de variáveis
