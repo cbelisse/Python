@@ -12,4 +12,4 @@ Caso precise de ajuda ou tenha alguma dúvida, o usuário poderá entrar em cont
 Quem mantém e contribui com projetos e documentos?</br>
 Apesar deste repositório ter sido criado por Cleber Belisse, todos os usuários poderão contribuir com o desenvolvimento e atualizações dos projetos.
 
-Fique a vontade para consultar ou contribuir!
+Fique a vontade para consultar ou contribuir.
