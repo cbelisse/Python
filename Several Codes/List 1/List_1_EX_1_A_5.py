@@ -42,7 +42,6 @@ SENAI - Não pode
  'False' - string
 "Verdadeiro ou Falso?" - string
 
-
 4)	Qual o resultado do código a seguir:
 alunos = 15
 alunos = alunos + 1
