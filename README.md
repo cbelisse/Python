@@ -1,5 +1,5 @@
 # Python
-Welcome to the Python repository, let's it resposability.
+Welcome to the Python repository, let's use it resposability.
 
 Este repositório tem como objetivo principal armazenar e compartilhar projetos escritos em linguagem Python com outros desenvolvedores e/ou estudantes, contribuindo para o desenvolvimento profissional e educacional de todos os interessados.
 
