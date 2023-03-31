@@ -1,8 +1,8 @@
 '''
-Titulo: Multiplicador de dois números
+Titulo: Operador de multiplicação (Multiplication Operator)
 Data: 04/03/2023
 Autor: Cleber Belisse
-Descrição: Multiplica dois números
+Descrição: Código para multiplicar numeros (Code to multipy numbers)
 '''
 #7)	Monte um programa que exiba a multiplicação de dois números inteiros.
 numero1 = 5
