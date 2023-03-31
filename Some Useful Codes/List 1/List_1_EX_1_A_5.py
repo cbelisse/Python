@@ -1,4 +1,6 @@
 '''
+Getting started with the basics!
+
 Exercícios da lista 1
 1 a 5
 1 - Identificar operadores
