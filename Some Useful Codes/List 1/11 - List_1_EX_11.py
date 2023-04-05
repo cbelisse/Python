@@ -2,7 +2,8 @@
 Titulo: Multiplicando números informados pelo usuário (Multiplying numbers reported by the user)
 Data: 05/03/2023
 Autor: Cleber Belisse
-Descrição: In this document you find the code for muliplying numbers reported by the user.
+Descrição: Neste documento você pode encontrar o código para multiplicar os números reportados pelo usuário
+(In this document you find the code for muliplying numbers reported by the user).
 '''
 #11) Monte um programa que exiba a multiplicação de dois números inteiros informados pelo usuário.
 print('Seja bem vindo ao programa Multiplicador \
