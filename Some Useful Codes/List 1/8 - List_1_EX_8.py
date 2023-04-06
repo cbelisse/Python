@@ -12,3 +12,7 @@ numero2 = 4
 resultado = numero1 / numero2
 
 print(resultado)
+
+'''
+Ainda não estamos trabalhando com input.
+'''
