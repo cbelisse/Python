@@ -1,3 +1,4 @@
+titulo = 'Calculadora de média'
 '''
 Data: 05/03/2023
 Autor: Cleber Belisse
