@@ -1,9 +1,9 @@
 '''
-Titulo: Calculadora de quando terá 80 anos
+Titulo: Calculadora de quando terá 80 anos (Calculator of when you will be 80 (eighty)  years old).
 Data: 05/03/2023
 Autor: Cleber Belisse
-Descrição: Calcula quando você terá 80 anos a partir
-da idade informada
+Descrição: Com este programa você consegue saber em que ano você terá 80 anos de idade /
+(With this program you can know in which year you will be 80 years old).
 '''
 '''
 #14)	Faça um programa que mostre em que ano a pessoa terá 80
