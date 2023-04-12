@@ -1,8 +1,11 @@
 titulo = 'Calculadora de média'
 '''
+Título = Calculando a média das notas escolares. de um aluno que foram inseridas pelo professor no sistema.
 Data: 05/03/2023
 Autor: Cleber Belisse
-Descrição: Calcula a média de duas notas
+Descrição: Calculando a média das notas escolares de um aluno que foram inseridas pelo professor no sistema
+(Calculating the average of two school grades of a student that the teacher enters into the system).
+
 '''
 '''
 15)	Uma professora gostaria um programa para 
