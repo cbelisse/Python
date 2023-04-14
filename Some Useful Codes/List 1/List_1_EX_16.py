@@ -1,8 +1,12 @@
 titulo = 'Calculadora de IMC'
 '''
+Título: Calculando o índice de massa corporal (IMC) / Calculating body mass index (BMI).
 Data: 05/03/2023
 Autor: Cleber Belisse
-Descrição: Calcula o imc e faz cadastro de usuário
+Descrição: O usuário insere a própria altura (m) e peso (kg) no sistema e o programa cálcula o índice de massa corporal
+The user enters their own height (metter) and weight (kilograms) into the system and the program calculates the 
+Body Mass Index (BMI).
+(.
 '''
 '''
 16)	Faça um programa que realize o cadastro de um usuário a partir de seu nome, idade, peso, altura que deverão ser 
