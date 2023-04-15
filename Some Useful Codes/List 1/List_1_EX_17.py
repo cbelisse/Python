@@ -2,7 +2,11 @@ titulo = 'Calculadora de Latas de Tinta'
 '''
 Data: 05/03/2023
 Autor: Cleber Belisse
-Descrição: Calcula o imc e faz cadastro de usuário
+Descrição: Calculando quantas latas de tinta comprar (Calculating how many paint cans to buy)
+Com este programa o usuário informa a largura e altura da parede e recebe a informação de quantas latas de tinta precisa
+comprar para pintar a parede.
+(With this program the user informs width and height of the wall and receives the information of how many paint cans he needs 
+to by to paint the wall).
 '''
 '''
 17)	Um fabricante de tintas quer montar um programa que auxilie o comprador a saber quantas latas de tinta ele precisará para pintar sua parede. 
