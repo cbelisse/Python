@@ -1,7 +1,11 @@
 '''
 Data: 06/03/2023
 Autor: Cleber Belisse
-Descrição: Desconto com base na idade
+Descrição: Calcula desconto com base na idade (Calculates discount based on age)
+O cliente insere a idade no programa e o código calcula o percentual de desconto sobre o produto. No final o sistema
+informa o preço inicial e o preço final com desconto (The customer enters the age in the program and the code calculates
+the discount percentage on the product. At the end the system informs the initial price and the final price at a discount).
+
 Uma ótica quer fazer um desconto diferenciado com base na idade do usuário em um modelo de óculos que custa R$200,00.
 O desconto será igual a idade do usuário, porém o desconto mínimo será 10% e o desconto máximo será de 80%.
 Faça um programa que pergunte a idade do usuário e então mostre o valor final do óculos e o desconto adquirido.
