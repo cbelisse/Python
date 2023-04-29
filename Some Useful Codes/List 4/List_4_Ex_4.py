@@ -27,7 +27,7 @@ Resultado do cálculo: 6
 Logo:
 CPF válido
 '''
-titulo = '"Validando Primeiro Dígito do CPF"'
+titulo = '"Valida CPF com os dois dígitos"'
 print('Bem vindo ao programa: ' + titulo)
 cpf = input("Digite seu cpf:")
 cpfnumeros = cpf.replace('.','')
