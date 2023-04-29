@@ -45,30 +45,34 @@ listanumeros = []
 multiplicador = 11
 somatotal = 0
 
-for valor in cpfnumeros[:9]:
-    multiplicador -= 1
-    listanumeros.append(int(valor)*multiplicador)
-print(listanumeros)
-
-for dig in cpfnumeros[-2:]:
-    listanumeros.append(int(dig))
-print(listanumeros)
-
-for soma in listanumeros[:9]:
-    somatotal += soma*10
-
-print(somatotal)
-
-restopor11 = somatotal%11
-
-if restopor11 > 9:
-    digito = 0
+if len(cpf) != 14:
+    print("CPF Inválido")
 else:
-    digito = restopor11
+    for valor in cpfnumeros[:9]:
+        multiplicador -= 1
+        listanumeros.append(int(valor)*multiplicador)
+        print(valor,' x ', multiplicador)
+    print(listanumeros)
 
-print("O primeiro digito do cpf deve ser: " + str(digito))
+    for dig in cpfnumeros[-2:]:
+        listanumeros.append(int(dig))
+    print(listanumeros)
 
-if listanumeros[-2] != digito:
-    print("CPF inválido")
-else:
-    print('Primeiro dígito verificador APROVADO')
+    for soma in listanumeros[:9]:
+        somatotal += soma*10
+
+    print(somatotal)
+
+    restopor11 = somatotal%11
+
+    if restopor11 > 9:
+        digito = 0
+    else:
+        digito = restopor11
+
+    print("O primeiro digito do cpf deve ser: " + str(digito))
+
+    if listanumeros[-2] != digito:
+        print('Primeiro dígito verificador REPROVADO')
+    else:
+        print("Até o primeiro dígito APROVADO")
